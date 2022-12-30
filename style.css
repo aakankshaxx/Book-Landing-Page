@@ -98,13 +98,6 @@ a:visited, a:link{
     text-align: justify;
 }
 
-.buttons{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 12px;
-}
-
 .deal{
     font-size: 1.2rem;
     font-weight: bolder;
