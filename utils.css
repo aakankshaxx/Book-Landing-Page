@@ -57,6 +57,11 @@
     background-color: rgb(147, 19, 169);
 }
 
+.btn:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+
 .overflow-x-hidden{
     overflow-x: hidden;
 }
