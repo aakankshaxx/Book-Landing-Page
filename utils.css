@@ -49,6 +49,7 @@
 
 .btn{
     padding:7px 12px;
+    margin-left: 10px;
     border: 2px solid white;
     border-radius: 6px;
     cursor: pointer;
