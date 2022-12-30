@@ -74,7 +74,8 @@ a:visited, a:link{
     height: auto;
 }
 .section2{
-    padding: 50px, 0;
+    padding-top: 50px;
+    margin-bottom: 50px;
 }
 
 .section2 h1{
@@ -87,7 +88,8 @@ a:visited, a:link{
 }
 
 .section3{
-    padding: 50px,0;
+    padding-top: 50px;
+    margin-bottom: 50px;
 }
 
 .section3 p{
